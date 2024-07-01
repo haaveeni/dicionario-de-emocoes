@@ -16,7 +16,7 @@ header h1, header p {
     text-align: center;
 }
 
-section {
+.emocoes {
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -25,26 +25,8 @@ section {
 
 .card {
     display: inline-block;
-    margin: 10px;
     vertical-align: top;
     max-height: 100%;
-
-}
-
-#alegria {
-    color: yellow;
-}
-#raiva {
-    color: red;
-}
-#tristeza {
-    color: lightblue;
-}
-#medo {
-    color: rgb(139, 139, 202);
-}
-#nojinho {
-    color: lightgreen;
 }
 
 .card img {
@@ -66,3 +48,30 @@ section {
     padding: 10px;
 }
 
+#alegria {
+    color: yellow;
+}
+#raiva {
+    color: red;
+}
+#tristeza {
+    color: lightblue;
+}
+#medo {
+    color: rgb(139, 139, 202);
+}
+#nojinho {
+    color: lightgreen;
+}
+#ansiedade {
+    color: orange;
+}
+#tedio {
+    color: purple;
+}
+#inveja {
+    color: turquoise;
+}
+#vergonha {
+    color: pink;
+}
