@@ -16,7 +16,7 @@ header h1, header p {
     text-align: center;
 }
 
-.emocoes {
+#conteudo {
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -48,30 +48,30 @@ header h1, header p {
     padding: 10px;
 }
 
-#alegria {
+.alegria {
     color: yellow;
 }
-#raiva {
+.raiva {
     color: red;
 }
-#tristeza {
+.tristeza {
     color: lightblue;
 }
-#medo {
+.medo {
     color: rgb(139, 139, 202);
 }
-#nojinho {
+.nojinho {
     color: lightgreen;
 }
-#ansiedade {
+.ansiedade {
     color: orange;
 }
-#tedio {
+.tedio {
     color: purple;
 }
-#inveja {
+.inveja {
     color: turquoise;
 }
-#vergonha {
+.vergonha {
     color: pink;
 }
