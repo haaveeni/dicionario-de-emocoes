@@ -1,11 +1,11 @@
-# (INSERIR EMOJI?) DICIONÁRIO DE EMOÇÕES
+# DICIONÁRIO DE EMOÇÕES 😃😡😞😨🤢
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/haaveeni/dicionarioDeEmocoes?color=%23b21104">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/haaveeni%2FdicionarioDeEmocoes?color=%23b21104">
   
-  <a href="https://github.com/haaveeni/plannerDeViagem/commits/main">
+  <a href="https://github.com/haaveeni/dicionarioDeEmocoes/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/haaveeni/dicionarioDeEmocoes?color=%23b21104">
   </a>
   
@@ -18,7 +18,7 @@
   </a>
 
 <h4 align="center"> 
-	🚧 DICIONÁRIO DE EMOÇÕES 🚧
+	 DICIONÁRIO DE EMOÇÕES 
 </h4>
 
 <p align="center">
