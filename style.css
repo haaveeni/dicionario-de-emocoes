@@ -33,6 +33,11 @@ header h1, header p {
     display: block;
 }
 
+summary:hover {
+  background-color: #000029;
+  cursor: pointer;
+}
+
 .card details {
     width: 252px;
     height: auto;
