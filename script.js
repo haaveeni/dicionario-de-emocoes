@@ -43,7 +43,7 @@ function carregarEmocoes(){
         emocao09: {
             imagem: "assets/vergonha.webp",
             nome: "Vergonha",
-            descricao: "o contrário da Inveja, que é pequena, a Vergonha é caracterizada por um gigante gentil e rosa, que quer se esconder e dificilmente, consegue passar despercebido. Ele ainda é silencioso e usa um moletom como um esconderijo embutido.",
+            descricao: "Ao contrário da Inveja, que é pequena, a Vergonha é caracterizada por um gigante gentil e rosa, que quer se esconder e dificilmente, consegue passar despercebido. Ele ainda é silencioso e usa um moletom como um esconderijo embutido.",
             classe: "vergonha"}
         }
 
